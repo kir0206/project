@@ -1,0 +1,2 @@
+D:\MinGW\bin\ar.exe qc liblibrary1.a CMakeFiles/library1.dir/sort.c.obj
+D:\MinGW\bin\ranlib.exe liblibrary1.a

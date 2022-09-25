@@ -1,0 +1,2 @@
+D:\MinGW\bin\ar.exe qc liblibrary.a CMakeFiles/library.dir/random.c.obj
+D:\MinGW\bin\ranlib.exe liblibrary.a

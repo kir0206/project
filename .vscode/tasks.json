@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: gcc.exe сборка активного файла",
+            "command": "gcc",
+            "args": [
+                "-c",
+                "*.c"
+            ] 
+        }
+    ],
+    "version": "2.0.0"
+}
