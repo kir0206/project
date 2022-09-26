@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/projects/c projects/project/library/sort.c" ",library1/CMakeFiles/library1.dir/sort.c.obj" "gcc" ",library1/CMakeFiles/library1.dir/sort.c.obj.d"
+  "D:/papka/huynya/project/library/sort.c" ",library1/CMakeFiles/library1.dir/sort.c.obj" "gcc" ",library1/CMakeFiles/library1.dir/sort.c.obj.d"
   )
 
 # Targets to which this target links.

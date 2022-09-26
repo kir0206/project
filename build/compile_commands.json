@@ -1,17 +1,17 @@
 [
 {
-  "directory": "D:/projects/c projects/project/build",
-  "command": "D:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\main.c.obj -c \"D:\\projects\\c projects\\project\\main.c\"",
-  "file": "D:/projects/c projects/project/main.c"
+  "directory": "D:/papka/huynya/project/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\main.c.obj -c D:\\papka\\huynya\\project\\main.c",
+  "file": "D:/papka/huynya/project/main.c"
 },
 {
-  "directory": "D:/projects/c projects/project/build/,library1",
-  "command": "D:\\MinGW\\bin\\mingw32-gcc.exe   -g -o CMakeFiles\\library.dir\\random.c.obj -c \"D:\\projects\\c projects\\project\\library\\random.c\"",
-  "file": "D:/projects/c projects/project/library/random.c"
+  "directory": "D:/papka/huynya/project/build/,library1",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g -o CMakeFiles\\library.dir\\random.c.obj -c D:\\papka\\huynya\\project\\library\\random.c",
+  "file": "D:/papka/huynya/project/library/random.c"
 },
 {
-  "directory": "D:/projects/c projects/project/build/,library1",
-  "command": "D:\\MinGW\\bin\\mingw32-gcc.exe   -g -o CMakeFiles\\library1.dir\\sort.c.obj -c \"D:\\projects\\c projects\\project\\library\\sort.c\"",
-  "file": "D:/projects/c projects/project/library/sort.c"
+  "directory": "D:/papka/huynya/project/build/,library1",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g -o CMakeFiles\\library1.dir\\sort.c.obj -c D:\\papka\\huynya\\project\\library\\sort.c",
+  "file": "D:/papka/huynya/project/library/sort.c"
 }
 ]

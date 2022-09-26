@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/projects/c projects/project/library/random.c" ",library1/CMakeFiles/library.dir/random.c.obj" "gcc" ",library1/CMakeFiles/library.dir/random.c.obj.d"
+  "D:/papka/huynya/project/library/random.c" ",library1/CMakeFiles/library.dir/random.c.obj" "gcc" ",library1/CMakeFiles/library.dir/random.c.obj.d"
   )
 
 # Targets to which this target links.
