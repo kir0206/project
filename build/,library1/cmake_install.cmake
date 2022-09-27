@@ -1,4 +1,4 @@
-# Install script for directory: D:/papka/huynya/project/library
+# Install script for directory: D:/projects/c projects/project/library
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/MinGW/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "D:/MinGW/bin/objdump.exe")
 endif()
 

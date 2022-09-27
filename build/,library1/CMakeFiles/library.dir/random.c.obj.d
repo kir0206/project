@@ -1,6 +1,7 @@
 ,library1/CMakeFiles/library.dir/random.c.obj: \
- D:\papka\huynya\project\library\random.c c:\mingw\include\stdlib.h \
- c:\mingw\include\_mingw.h c:\mingw\include\msvcrtver.h \
- c:\mingw\include\w32api.h c:\mingw\include\sdkddkver.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h c:\mingw\include\time.h \
- c:\mingw\include\sys\types.h
+ D:\projects\c\ projects\project\library\random.c \
+ d:\mingw\include\stdlib.h d:\mingw\include\_mingw.h \
+ d:\mingw\include\msvcrtver.h d:\mingw\include\w32api.h \
+ d:\mingw\include\sdkddkver.h \
+ d:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h d:\mingw\include\time.h \
+ d:\mingw\include\sys\types.h
