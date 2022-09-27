@@ -1,7 +1,7 @@
-D:/projects/c projects/project/build/CMakeFiles/main.dir
-D:/projects/c projects/project/build/CMakeFiles/edit_cache.dir
-D:/projects/c projects/project/build/CMakeFiles/rebuild_cache.dir
-D:/projects/c projects/project/build/,library1/CMakeFiles/library.dir
-D:/projects/c projects/project/build/,library1/CMakeFiles/library1.dir
-D:/projects/c projects/project/build/,library1/CMakeFiles/edit_cache.dir
-D:/projects/c projects/project/build/,library1/CMakeFiles/rebuild_cache.dir
+D:/papka/huynya/project/build/CMakeFiles/edit_cache.dir
+D:/papka/huynya/project/build/CMakeFiles/main.dir
+D:/papka/huynya/project/build/CMakeFiles/rebuild_cache.dir
+D:/papka/huynya/project/build/,library1/CMakeFiles/edit_cache.dir
+D:/papka/huynya/project/build/,library1/CMakeFiles/library.dir
+D:/papka/huynya/project/build/,library1/CMakeFiles/library1.dir
+D:/papka/huynya/project/build/,library1/CMakeFiles/rebuild_cache.dir
